@@ -1,0 +1,4 @@
+The simulated_annealing algorithm returned 30 feasible solutions from 30 trials.
+The best found solution has a fitness of  0.
+The worse found solution has a fitness of  0.
+The average fitness was 0.00
